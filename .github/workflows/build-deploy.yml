@@ -4,9 +4,9 @@
    workflow_dispatch:      
  # Add env
  env:
-   CONTAINER_REGISTRY:  HandonX1Hih2cc7dkfusnsim.azurecr.io
+   CONTAINER_REGISTRY:  handx1hisadl7puvcsvgdf2.azurecr.io
    # Add envs
-   RESOURCE_GROUP_NAME: Handson01-Hisada-CICD
+   RESOURCE_GROUP_NAME: Handson01-X1Hisa-CICD
    CONTAINERAPP_NAME:  ctapp-demo-api
  jobs:
    build:
